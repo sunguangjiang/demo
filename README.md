@@ -1,0 +1,2 @@
+# demo
+Qt C++ demo
